@@ -3,10 +3,12 @@
 A budding software engineer growing her skill set.
 
 - Front-end: `HTML5` `CSS3` `JavaScript` `React` `React-Bootstrap`
-- Back-end: `Node`
+- Back-end: `Node` `Express`
 - Database: `MongoDB`
+- Software: `Postman`
+- Other: `Git`
 
-Also, a bit of a pizza (sans pineapples) fiend.
+Also, a bit of a pizza (sans pineapple) fiend.
 
 <!--
 **jyaymie/jyaymie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
