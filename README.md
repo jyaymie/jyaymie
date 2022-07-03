@@ -1,15 +1,16 @@
+<img src="https://media.giphy.com/media/3oriOfe0A84SVqwr6w/giphy.gif" width="100" height="100" />
+
 ### *Hey there. Jamie here.*
 
 A budding software engineer growing her skill set.
 
 - Front-end: `HTML5` `CSS3` `JavaScript` `React` `React-Bootstrap`
-- Back-end: `Node` `Express`
+- Back-end: `Node.js` `Express.js` `Mongoose`
 - Database: `MongoDB`
-- Software: `Postman`
-- Other: `Git`
+- Software: `VS Code` `Postman`
+- Other: `Git` `GitHub` `Markdown` `npm`
 
 Also, a bit of a pizza (sans pineapple) fiend.
-
 <!--
 **jyaymie/jyaymie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
