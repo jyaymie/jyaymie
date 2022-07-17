@@ -4,11 +4,11 @@
 
 A budding software engineer growing her skill set.
 
-- Front-end: `HTML5` `CSS3` `JavaScript` `React` `React-Bootstrap`
+- Front-end: `HTML5` `CSS3` `JavaScript` `JSX` `React` `React-Bootstrap` `Axios`
 - Back-end: `Node.js` `Express.js` `Mongoose`
 - Database: `MongoDB`
-- Software: `VS Code` `Postman`
-- Other: `Git` `GitHub` `Markdown` `npm`
+- Software: `VS Code` `Postman` `JIRA`
+- Other: `Git` `GitHub` `Markdown` `npm` `Netlify` `Heroku`
 
 Also, a bit of a pizza (sans pineapple) fiend.
 <!--
