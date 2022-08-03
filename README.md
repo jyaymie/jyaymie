@@ -5,7 +5,7 @@
 A budding software engineer growing her skill set.
 
 - Languages: `HTML5` `CSS3` `Javascript` `JSX` `Python`
-- Libraries and Frameworks: `React` `React-Bootstrap` `Node` `Express` `Mongoose` `Axios` `Django`
+- Libraries and Frameworks: `React` `React-Bootstrap` `Node` `Express` `Mongoose` `Axios` `Django` `Django REST Framework`
 - Databases: `MongoDB` `PostgreSQL`
 - Management and Deployment: `Command Line` `Git` `GitHub` `Postman` `Netlify` `Heroku` `Jira`
 
