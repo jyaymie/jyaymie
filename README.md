@@ -4,10 +4,10 @@
 
 A budding software engineer growing her skill set.
 
-- Languages: `HTML5` `CSS3` `Javascript` `JSX` `Python`
-- Libraries and Frameworks: `React` `React-Bootstrap` `Node` `Express` `Mongoose` `Axios` `Django` `Django REST Framework`
+- Languages: `HTML5` `CSS3` `Javascript` `Python`
+- Libraries and Frameworks: `React` `React-Bootstrap` `Node` `Express` `Mongoose` `Axios` `Django` `Django REST Framework` `Mocha` `Jest`
 - Databases: `MongoDB` `PostgreSQL`
-- Management and Deployment: `Command Line` `Git` `GitHub` `Postman` `Netlify` `Heroku` `Jira`
+- Management and Deployment: `Command Line` `Git` `GitHub` `Postman` `Netlify` `Heroku` `Jira` `Figma` `Docker`
 
 Also, a bit of a pizza (sans pineapple) fiend.
 <!--
